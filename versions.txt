@@ -1,4 +1,1 @@
-v1.1
-v1.0
-v0.9-beta_b2
-v0.9-beta
+v1.1:v1.0:v0.9-beta_b2:v0.9-beta
